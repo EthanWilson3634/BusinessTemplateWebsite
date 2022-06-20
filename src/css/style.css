@@ -9,7 +9,7 @@ body {
 }
 
 /* Style links in the navigation bar */
-.topNavigation a {
+.topNavigation a:not(#logo) {
     float: right;
     color: #f2f2f2;
     text-align: center;
